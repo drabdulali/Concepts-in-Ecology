@@ -1,6 +1,8 @@
 # Phase Plane Analysis in Ecology - Shiny App
 # This app demonstrates eigenvalues, eigenvectors, nullclines, and trajectories
 
+#We will need these libraries
+
 library(shiny)
 library(shinydashboard)
 library(plotly)
